@@ -20,5 +20,5 @@
 
 ## Sources
 
-- [Book Overview: Grails in Action](https://www.manning.com/books/grails-in-action-second-edition)
+- [Book: Grails in Action](https://www.manning.com/books/grails-in-action-second-edition)
 - [Github: Grails in Action](https://github.com/GrailsInAction/graina2)
