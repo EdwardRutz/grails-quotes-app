@@ -16,9 +16,13 @@
 
 ## Notes
 
+- Running test in Grails Command-line is faster. Type `grails`
 
 
 ## Sources
 
 - [Book: Grails in Action](https://www.manning.com/books/grails-in-action-second-edition)
 - [Github: Grails in Action](https://github.com/GrailsInAction/graina2)
+- [Grails Testing](http://docs.grails.org/latest/guide/testing.html )
+- [Grails Unit Testing](https://testing.grails.org/latest/guide/index.html)
+
